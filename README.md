@@ -6,13 +6,14 @@ I also so react, java native for android and react native!<br>
 
 # 🪄 Mainly I do...
 1. AI,
-2. Back-end(Springboot, Laravel, FastAPI, Flask),
-3. Microservices,
-4. Monoliths,
-5. Databases,
-6. DevOPS,
-7. AWS and
-8. A LOT OF JAVA!
+2. System architecture
+3. Back-end(Springboot, Laravel, FastAPI, Flask),
+4. Microservices,
+5. Monoliths,
+6. Databases,
+7. DevOPS,
+8. AWS and
+9. A LOT OF JAVA!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/immo2n) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/immo2n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/immo2n) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/immo2n) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moon.work247@gmail.com) 
