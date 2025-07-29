@@ -2,7 +2,8 @@
 Well, I love making things! <br>
 Currently working in aaladinai.com as a Sr. Software engineer. <br>
 I make system softwares, business softwares and do DevOPS and other back-end stuff. <br>
-I also so react, java native for android and react native!
+I also so react, java native for android and react native!<br><br>
+Mainly I do... AI, Back-end(Springboot, Laravel), Microservices, Monoliths, Databases, DevOPS, AWS and A LOT OF JAVA!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/immo2n) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/immo2n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/immo2n) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/immo2n) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moon.work247@gmail.com) 
