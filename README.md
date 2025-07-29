@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Me:
 Well, I love making things! <br>
 Currently working in aaladinai.com as a Sr. Software engineer. <br>
 I make system softwares, business softwares and do DevOPS and other back-end stuff <br>
