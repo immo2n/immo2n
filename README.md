@@ -4,7 +4,7 @@ Currently working in aaladinai.com as a Sr. Software engineer. <br>
 I make system softwares, business softwares and do DevOPS and other back-end stuff. <br>
 I also so react, java native for android and react native!<br>
 
-# Mainly I do...
+# 🪄 Mainly I do...
 1. AI,
 2. Back-end(Springboot, Laravel, FastAPI, Flask),
 3. Microservices,
