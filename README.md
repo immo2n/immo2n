@@ -26,5 +26,4 @@ I also do react, dart, java native for android and react native!<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=immo2n&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=immo2n&icon=7&color=3)](https://visitcount.itsvg.in)
-
 ![GitHub Views](https://komarev.com/ghpvc/?username=immo2n)
