@@ -1,6 +1,6 @@
 # 💫 Me...
 Well, I love making things! <br>
-Currently working in aaladinai.com as a Sr. Software engineer. <br>
+Currently working in [aaladinai.com](https://www.linkedin.com/company/scalebuildai) as a Sr. Software engineer. <br>
 I make system softwares, business softwares and do DevOPS and other back-end stuff. <br>
 I also do react, dart, java native for android and react native!<br>
 
